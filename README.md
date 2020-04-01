@@ -1,5 +1,5 @@
 # mongodb-basics
-![monogdb-basics](/Desktop/StartNG/Develoment/mongo_app.jpeg)
-![mongodb-basics].(/Desktop/StartNG/Development/mongo_db.jpeg)
-![mongodb-basics].(/Desktop/StartNG/Development/mongo_collectn.jpeg)
-Format: ![Alt Text](url)
+![monogdb-basics](https://ibb.co/FgpCppn)
+![mongodb-basics].(https://ibb.co/6gS250g)
+![mongodb-basics].(https://ibb.co/Z1QYRbt)
+Format: ![mongodb-bascis](url)
